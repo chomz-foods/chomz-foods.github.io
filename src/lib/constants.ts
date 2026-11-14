@@ -1,6 +1,6 @@
-export const PHONE_DISPLAY = "+254 143 755 699";
-export const PHONE_TEL = "+254143755699";
-export const WHATSAPP_NUMBER = "254143755699";
+export const PHONE_DISPLAY = "+254 737 321 365";
+export const PHONE_TEL = "+254737321365";
+export const WHATSAPP_NUMBER = "254737321365";
 export const WHATSAPP_MESSAGE = "Hi Chomz, I'd like to place an order.";
 export const CATERING_WHATSAPP_MESSAGE =
   "Hi Chomz, I'd like to talk about catering/bulk orders for an event.";
