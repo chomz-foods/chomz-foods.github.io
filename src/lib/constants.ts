@@ -25,3 +25,5 @@ export const FACEBOOK_URL = "https://www.facebook.com/GetChomz";
 export const INSTAGRAM_URL = "https://www.instagram.com/getchomz/?hl=en";
 export const X_URL = "https://x.com/GetChomz";
 export const TIKTOK_URL = "https://www.tiktok.com/@getchomz";
+
+export const SITE_URL = "https://www.chomz.co.ke";
